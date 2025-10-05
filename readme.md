@@ -1,3 +1,3 @@
-## Hello from Dev-1
-- `Dev-1` adding this change.
+## Welcome to Git
+- This is coming form `dev-2`
 - Adding this line from "feat/TICKET-main"
